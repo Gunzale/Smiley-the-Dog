@@ -144,3 +144,4 @@
 
 </body>
 </html>
+<img src="images/smiley.jpg" alt="Smiley the Dog">
